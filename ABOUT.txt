@@ -1,7 +1,8 @@
-【工程名称】：MobileIMSDK v3, a cross-device Instant Messaging library
-【新版动态】: MobileIMSDK最新v3.0版首次发布于2017年06月25日
+【工程名称】：MobileIMSDK v4.0, 一个专为移动端开发的原创即时通讯框架，超轻量级、高度提炼，完全基于UDP协议，支持iOS、Android、标准Java平台。
+【新版动态】: MobileIMSDK最新v4.0版发布于2019年04月30日。
 【作者】: Jack Jiang
 【QQ】: 413980957
+【微信】: hellojackjiang
 【Mail】: jack.jiang@52im.net or jb2011@163.com
 【Skype】: hellojackjiang
 【讨论区】: http://www.52im.net/forum-89-1.html
@@ -9,5 +10,6 @@
 【IM技术交流群】: 320837163
 
 【重要说明】：请优先阅读文件“[请读我]目录内容说明.txt”中的内容。
+【精编注释版】：为了更方便算法的深入学习、研究和2次开发，MobileIMSDK单独维护了一个精编注释版，关于精编注释版和开源版的说明，请见：http://www.52im.net/thread-411-1-1.html
 
 
